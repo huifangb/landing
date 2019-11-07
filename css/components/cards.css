@@ -1,0 +1,36 @@
+.how-it-works{
+  text-align: center;
+  margin: 20px auto;
+}
+
+.card-products{
+  padding: 0 100px;
+  height: 280px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-product-desc{
+  width: 180px;
+  height: 200px;
+  padding: 30px;
+  border: 1px solid rgba(184, 190, 196, 0.5);
+  box-shadow: 2px 2px 10px rgba(0,0,0,.1);
+  border-radius: 4px;
+}
+
+.card-product-desc img{
+  width: 150px;
+  height: 100px;
+}
+
+.card-product-desc h2{
+  font-size: 16px;
+  font-weight: lighter;
+
+}
+
+.card-product-desc p{
+  font-weight: lighter;
+  color: #7F7F7F;
+}
